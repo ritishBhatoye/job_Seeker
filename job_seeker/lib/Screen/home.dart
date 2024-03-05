@@ -741,6 +741,7 @@ Widget searchBox(BuildContext context) {
                   BoxConstraints(maxHeight: 22, minWidth: 25),
               hintText: 'Search',
               border: InputBorder.none,
+              
               hintStyle: TextStyle(color: Colors.grey, fontSize: 23),
             )),
           ),
